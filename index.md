@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hello, I'm Amit.
+I'm a frontend developer with interest in building useful user-interfaces.
+I love design principles and UX.
